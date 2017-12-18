@@ -1,0 +1,82 @@
+body{
+	background-image: url("backgrounImage.jpg"); background-size:100% 100%;}
+}
+
+
+.header{
+	width:1200px;
+	height:200px;
+	background:black;
+	margin:0 auto;
+	
+}
+.banner{
+	width:600px;
+	height:200px;
+	
+	margin:0 auto;
+	margin:0 auto;
+}
+.body{
+	width:1200px;
+	background: #f3f7a0;
+	height:700px;
+	margin:0 auto;
+	border-radius:20px 20px 20px 20px;
+
+}
+.footer{
+	background:#fcfcf9;
+	height:100px;
+	width:1200px;
+	margin:0 auto;
+	text-align: center;
+	line-height: 100px;
+	border-radius:20px 20px 20px 20px
+}
+.instruction{
+	height:200px;
+	width:600px;
+	margin:0 auto;
+	background:#f4f7be;
+	border-radius:20px 20px 20px 20px;
+	text-align:center;
+	line-height: 50px;
+}
+.score-row{
+	width:1200px;
+	overflow:hidden;
+	background: #f2f4cb;
+	margin:20px auto;
+}
+.score-row div{
+	height:150px;
+	width:500px;
+	background: #fbfce3;
+	margin:0 50px 0 50px;
+	border-radius:50px 50px 50px 50px;
+	text-align: center;
+	line-height: 30px;
+
+	
+}
+#computerScore{
+	float: left;
+}
+.myScore{
+	float:left;
+}
+.image-row{
+	background: #fefff4;
+	height:200px;
+	width:600px;
+	margin: 0 auto;
+	border-radius:30px 30px 30px 30px
+}
+.image-row img{
+	
+	height:130px;
+	width:140px;
+	margin:33px 3px 33px 3px;
+
+}
